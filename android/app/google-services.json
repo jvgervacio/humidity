@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159863832002",
+    "firebase_url": "https://micro-project-326-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "micro-project-326",
+    "storage_bucket": "micro-project-326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159863832002:android:64edce1ac6050f4ad22a5b",
+        "android_client_info": {
+          "package_name": "com.example.humidity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159863832002-6oprumh9n2ft38h37ov317puumegc2um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.humidity",
+            "certificate_hash": "d6436b1f142b9c8dd3c6f8a4431767769bda5c61"
+          }
+        },
+        {
+          "client_id": "159863832002-nkn4ftdlmf12rsf1jtmsprjo9r8iml2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHN0IwyvLdNgugesN5N141glAYCq3G7nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159863832002-nkn4ftdlmf12rsf1jtmsprjo9r8iml2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
